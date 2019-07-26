@@ -1,13 +1,13 @@
 import React from 'react';
 import Layout from './components/Layout/Layout';
+import ItemsList from './containers/ItemsList/ItemsList';
 
 function App() {
   return (
     <div className="App">
       <Layout>
-        <div>
-          <p>Welcome to Zeus project!</p>
-        </div>
+        <ItemsList />
+
         <section>Subscribe</section>
         <section>News</section>
       </Layout>
