@@ -69,3 +69,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Mockup
 ![Image of the projeck mockup](https://github.com/katiadobra/Beer/blob/basic_components/client/src/assets/mockup.png)
+
+## Notes:
+
+- Make sure to have the Prettier extension installed so that your code will autoformat according to the config file
+
+## Helpful Reading List:
+
+- [How to use Git with a team](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
+- [Rules of React](https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f)
+- [Redux Tutorial](https://egghead.io/courses/getting-started-with-redux)
+- [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+- [React DOCs](https://reactjs.org/docs/getting-started.html)
+- [Create-React-App DOCs](https://facebook.github.io/create-react-app/docs/getting-started)
+- [React-Router DOCs](https://reacttraining.com/react-router/web/guides/quick-start)
+- [Redux DOCs](https://redux.js.org/introduction/getting-started)
+- [React-Redux DOCs](https://react-redux.js.org/introduction/quick-start)
