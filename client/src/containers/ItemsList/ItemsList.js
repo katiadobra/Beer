@@ -9,7 +9,11 @@ class ItemsList extends Component {
   render() {
     return (
       <Aux>
-        <div>ItemsList</div>
+        <div>
+          <p>Welcome to Zeus project!</p>
+        </div>
+        <Item />
+        <Item />
         <Item />
       </Aux>
     );
