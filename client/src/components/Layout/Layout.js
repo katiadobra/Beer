@@ -1,16 +1,16 @@
 import React from 'react';
 import Aux from '../../hoc/Aux';
+import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 const Layout = props => {
   return (
     <Aux>
-      <header>
-        <h1>Zeus</h1>
-      </header>
+      <Header />
       <main>
         {props.children}
       </main>
-      <footer>Footer</footer>
+      <Footer />
     </Aux>
   );
 };
